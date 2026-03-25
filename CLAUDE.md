@@ -1,5 +1,7 @@
 # Financial Services Plugins
 
+**Last updated:** 2026-03-25
+
 This is a marketplace of Claude Cowork plugins for financial services professionals. Each subdirectory is a standalone plugin.
 
 ## Repository Structure
